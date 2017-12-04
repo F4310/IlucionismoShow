@@ -25,7 +25,7 @@
 			src="Imgs/Objetos_Numerados/<%=numObjetoEscolhido%>.png"></p>
 			<a href="index.jsp">Retornar ao inicio</a></p>
 			<a href="https://www.youtube.com/watch?v=QghDwuRcOus" target="blank">Descubra o truque</a></p>
-			<h5>Por: Fabio Silva</h5>
+			<h5>Por: Fabio Silva - 2017</h5>
 	</center>
 
 </body>
