@@ -1,0 +1,46 @@
+@CHARSET "ISO-8859-1";
+
+body {
+	background-color: #000000;
+}
+
+h1 {
+	color: #FFFFFF;
+	font-size: 30px;
+}
+
+h3 {
+	color: #FFFFFF;
+	font-size: 20px;
+}
+
+h5 {
+	color: #FFFFFF;
+	font-size: 12px;
+}
+
+.demaisTextos {
+	color: #FFFFFF;
+	font-size: 15px;
+}
+
+input[type=submit] {
+	width: 100px;
+	height: 40px;
+	border-radius: 5px;
+	background-color: white;
+}
+
+a:link, a:visited {
+	text-decoration: none;
+	color:white;
+}
+
+a:hover {
+	text-decoration: underline;
+	color:gray;
+}
+
+a:active {
+	text-decoration: none
+}
