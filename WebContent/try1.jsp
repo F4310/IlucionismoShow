@@ -7,7 +7,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <link href="estilo.css" rel="stylesheet" type="text/css">
-<title>Ilucionismo Show</title>
+<title>Ilusionismo Show</title>
 </head>
 <body>
 
